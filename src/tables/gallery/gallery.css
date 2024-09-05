@@ -1,0 +1,46 @@
+.gallery_add_btn{
+    background: #003068;
+    color: white;
+    font-size: 14px;
+    border: unset;
+    padding: 10px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.data_form .data_form_inp{
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #003068;
+    color: #003068;
+    margin-bottom: 10px;
+}
+.data_form .data_form_add{
+    float: right;
+    font-size: 14px;
+    color: white;
+    background: #003068;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 7px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.l_g_cont{
+    height: 67vh;
+    overflow-y: scroll;
+}
+.l_g_cont::-webkit-scrollbar{
+    display: none;
+}
+.activeicat{
+    background-color: #003068;
+    cursor: pointer;
+    font-weight: 600;
+    color: white;
+}
+.inactiveicat{
+    cursor: pointer;
+}
